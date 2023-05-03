@@ -1,7 +1,5 @@
 site_name: My Docs
 
-use_directory_urls: false
-
 theme:
   name: readthedocs
 
